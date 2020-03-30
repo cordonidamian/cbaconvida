@@ -1,0 +1,32 @@
+*DEFINICIÓN DEL PROBLEMA (ambas):*
+
+Comprensión de la dinámica del virus en tiempo real
+Desarrollo de herramientas para la prevención del contagio
+
+
+*DESAFÍO ACORDADO:*
+
+Cómo podríamos mantener informado al ciudadano respecto de los diferentes casos de contagio?
+Cómo podríamos llegar al ciudadano teniendo en cuenta el estado actual de cuarentena?
+Cómo podríamos generar conciencia colectiva e individual ante la pandemia?
+Cómo podríamos ayudar a comprender y a poner en práctica los diferentes métodos de prevención?
+Cómo podríamos motivar al ciudadano a que siga los métodos de prevención?
+
+
+*MAPA DE ACTORES:*
+
+Población en general
+Centros Educativos
+Gobierno
+Seguridad
+Salud
+
+
+
+
+Una app para celulares que:
+
+#Enseñe formas de prevención
+#Muestre avisos motivacionales para combatir el virus
+#Interactue con el usuario con pregunteros relacionados a virus
+#Muestre de manera gráfica el estado del virus
